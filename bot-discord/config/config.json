@@ -1,0 +1,8 @@
+{ 
+    "token": "TU_TOKEN",
+    "prefix": "n/",
+    "clientId": "ID_CLIENTE",
+    "guildId": "ID_SERVIDOR",
+    "ownerId": "TU_ID"
+}
+
