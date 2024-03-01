@@ -10,7 +10,7 @@ Una vez que tengas todo eso configurado debes de ejecutar deploy-commands.js par
 
 # Arduino
 
-Desde el IDE de Arduino simplemente se usa el codigo del archivo <a href="serialServo.ino">arduino </a> y cargarlo a la placa 
+Desde el IDE de Arduino simplemente se usa el codigo del archivo <a href="serialServo.ino">arduino</a> y cargarlo a la placa 
 
 # Modulos
 
